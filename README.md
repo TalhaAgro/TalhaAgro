@@ -15,7 +15,7 @@
 - I’m currently working on a [PyGame Pixel Game.](https://github.com/TalhaAgro/PyGame-Project)
 
 ## Connect With Me:
-<a href="talha.agro50@gmail.com">
+<a href="mailto:talha.agro50@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/talha-agro" target="_blank">
