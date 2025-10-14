@@ -43,7 +43,6 @@
 ## Github Statistics:
 <p align="center">
     <a href="https://github.com/TalhaAgro">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TalhaAgro&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TalhaAgro&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
@@ -64,15 +63,6 @@
 
 <br>
 
-<div id="header" align="center">
-  
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TalhaAgro" alt="TalhaAgro" /></a> </p>
-  
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-  <img src="https://komarev.com/ghpvc/?username=TalhaAgro&style=for-the-badge&color=orange" alt=""/>
-</div>
-
-<h2  align="center">💻 Check Out My Repositories: </h2>
+<h2  align="center"> Check Out My Repositories: </h2>
 
 
