@@ -10,9 +10,7 @@
 
 ## About Me:
 - Bachelor of Science (Honours) in Computer Science at York University.
-- Leetcoding.
 - Aspiring Full Stack developer.
-- I’m currently working on a [PyGame Pixel Game.](https://github.com/TalhaAgro/PyGame-Project)
 
 ## Connect With Me:
   <a href="https://linkedin.com/in/talha-agro" target="_blank">
